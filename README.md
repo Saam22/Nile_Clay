@@ -30,9 +30,7 @@
 
 ## 🌐 Live Demo
 
-> 🔗 [شاهد الموقع هنا]([#](https://vercel.com/saam22s-projects/nile-clay)) *(استبدل # برابط الـ Live Demo الفعلي)*
-
-![Nile & Clay Preview](https://via.placeholder.com/1200x600/3d5a4f/c9a87c?text=Nile+%26+Clay+Preview)
+> 🔗 [شاهد الموقع هنا]([https://nile-clay.vercel.app/]
 
 ---
 
