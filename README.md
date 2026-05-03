@@ -27,10 +27,22 @@
 </p>
 
 ---
-
 ## 🌐 Live Demo
 
-> 🔗 [شاهد الموقع هنا]([https://nile-clay.vercel.app/]
+> 🔗 [شاهد الموقع هنا](https://nile-clay.vercel.app/)
+
+<p align="center">
+  <a href="https://nile-clay.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/800x450/0D1117/58A6FF?text=NewsHub+Preview" 
+         alt="NewsHub Live Demo" 
+         style="border-radius: 12px; border: 3px solid #58A6FF; box-shadow: 0 10px 40px rgba(88, 166, 255, 0.4); max-width: 100%; height: auto; transition: transform 0.3s ease;"
+         onerror="this.style.display='none'">
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>🖱️ Click the image to visit the live site</i></sub>
+</p>
 
 ---
 
