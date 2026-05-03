@@ -29,23 +29,27 @@
 ---
 ## 🌐 Live Demo
 
-> 🔗 [شاهد الموقع هنا](https://nile-clay.vercel.app/)
-
 <p align="center">
   <a href="https://nile-clay.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/800x450/0D1117/58A6FF?text=NewsHub+Preview" 
-         alt="NewsHub Live Demo" 
-         style="border-radius: 12px; border: 3px solid #58A6FF; box-shadow: 0 10px 40px rgba(88, 166, 255, 0.4); max-width: 100%; height: auto; transition: transform 0.3s ease;"
-         onerror="this.style.display='none'">
+    <img src="https://img.shields.io/badge/🚀-Visit%20Live%20Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 
+
+
 <p align="center">
-  <sub><i>🖱️ Click the image to visit the live site</i></sub>
+  <img src="https://img.shields.io/badge/📱-Fully%20Responsive-2EA043?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚡-Fast%20Loading-BD93F9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎨-Modern%20UI-F0883E?style=flat-square"/>
 </p>
 
----
-
+<!-- أو استخدم فيديو مباشر من GitHub -->
+<p align="center">
+  <video width="80%" controls style="border-radius: 12px; border: 2px solid #38B2AC;">
+    <source src="https://github.com/Saam22/news-website/raw/main/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 ## ✨ Features
 
 ### 🎨 Design & UI
